@@ -1,0 +1,8 @@
+## Interface: 60200  -- Required. Game version. 
+## Title: eCoordinates -- Name shown when viewing AddOn list.
+## Version: 1.0        -- Version number (if there are multiple versions)
+## Notes: Simple GPS  -- AddOn tooltip on loading screen. 
+## Author: eSaith  -- Not required; author of 
+
+simcoord.lua   -- Required, lets WoW know what Lua file it's looking for.
+simcoord.xml
